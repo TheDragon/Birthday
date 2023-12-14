@@ -5,8 +5,8 @@ body {
   background-color: black;
 }
 .card {
-  margin-left: 800px;
-  margin-top: 200px;
+  margin-left: 650px;
+  margin-top: 140px;
   width: 680px;
   height: 440px;
   position: absolute;
@@ -19,7 +19,7 @@ body {
   transition: 1s;
 }
 .card:hover {
-  transform: rotate(-5deg);
+  transform: rotate(-2deg);
 }
 .card:hover .outside {
   transform: rotateY(-130deg);
@@ -65,7 +65,7 @@ body {
 }
 .back {
   transform: rotateY(180deg);
-  background-image: url(./img/WhatsApp\ Image\ 2023-11-16\ at\ 23.23.53_d6110fd9.jpg);
+  background-image: url(/img/ProfilePIc.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
