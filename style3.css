@@ -65,7 +65,7 @@ body {
 }
 .back {
   transform: rotateY(180deg);
-  background-image: url(/img/ProfilePIc.jpg);
+  background-image: url(ProfilePIc.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
