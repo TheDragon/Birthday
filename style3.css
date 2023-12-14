@@ -65,7 +65,7 @@ body {
 }
 .back {
   transform: rotateY(180deg);
-  background-image: url(/img/WhatsApp\ Image\ 2023-11-16\ at\ 23.23.53_d6110fd9.jpg);
+  background-image: url(./img/WhatsApp\ Image\ 2023-11-16\ at\ 23.23.53_d6110fd9.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
